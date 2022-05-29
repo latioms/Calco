@@ -1,4 +1,4 @@
-</title><h2># CALCO-PROGRAMMATION-MOBILE</h2></title>
+<h2># CALCO-PROGRAMMATION-MOBILE</h2>
 <h5>Liste des membres du Groupe</h5>
 <ul>
     <h4>Noms et Matricules</h4>
@@ -16,19 +16,19 @@
 <h4>Ci-dessous Quelques captures de L'application sous differnts Environnements</h4>
 
 # Sur Navigateur : Version Web
-<img src="https://raw.githubusercontent.com/latioms/Calco/main/screenshots/screen%20(1).png?token=GHSAT0AAAAAABT2VYQQSTQ4O3HJ4S6WPNAYYUT6WAA">
+<img src="https://raw.githubusercontent.com/latioms/calculator/main/screenshots/screen%20(1).png">
 
 # Sur Tablette (Samsung) 
 
-<img src="https://raw.githubusercontent.com/latioms/Calco/main/screenshots/screen%20(3).png?token=GHSAT0AAAAAABT2VYQR33KRYYM5RJZXBTKUYUT7A4A">
+<img src="https://raw.githubusercontent.com/latioms/calculator/main/screenshots/screen%20(5).png">
 
 # Sur Google Pixel 2
 
-<img src="https://raw.githubusercontent.com/latioms/Calco/main/screenshots/screen%20(6).png?token=GHSAT0AAAAAABT2VYQRKYWWGKWVZXR6GM4UYUT7EAQ">
+<img src="https://raw.githubusercontent.com/latioms/calculator/main/screenshots/screen%20(6).png">
 
 # Un apercu du fonctionnement de l'application :
 
-<video src="https://raw.githubusercontent.com/latioms/Calco/main/screenshots/recorded.mp4?token=GHSAT0AAAAAABT2VYQRF3YBITHQG4NJLG22YUT7ITA"></video>
+<video src="https://raw.githubusercontent.com/latioms/calculator/main/screenshots/recorded.mp4"></video>
 
 # apres avoir cloner le projet il suffira de :
 Taper les commades :
