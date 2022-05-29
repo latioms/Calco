@@ -1,20 +1,26 @@
-<ion-header [translucent]="true">
+<ion-header [translucent]="true" onLoad="loadApp()">
   <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
+      <div class="toolbar">
+          <ion-item>
+              <ion-title class="">
+                  Calculatrice
+              </ion-title>
+              <ion-label slot="end">Dark mode</ion-label>
+              <ion-toggle id="themeToggle" slot="end" (ionChange)="toggleTheme($event)" name="blackberry" color="dark"  unchecked></ion-toggle>
+          </ion-item>
+      </div>
   </ion-toolbar>
+
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+<ion-content padding>
+  <ion-item>
+      <ion-label class="valeur">
+          {{display}}
+      </ion-label>
+  </ion-item>
+  <div *ngFor="let numGroup of numberGroups" class="num">
+      <ion-button *ngFor="let num of numGroup" (click)="onButtonPress(num)" class="calc-button" id="">{{num}}</ion-button>
   </div>
-</ion-content>
+  <ion-button class="calc-button" (click)="onButtonPress(equalButton)" id="eq">{{equalButton}}</ion-button>
+  <script src="home.page.js" ></script>
