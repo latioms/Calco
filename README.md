@@ -8,8 +8,6 @@
     <li></li>
 </ul>
 
-
-
  <h3>Il s'agit de l'application android d'une calculatrice réalisé avec ionic, ainsi que ses fichiers sources, calquée sous un modèle donné par l'enseignant</h3>
 
 <b>Implemente principalement a l'aide de la technologie ionic et Montée(Build) Grace a Capacitor et a Android Studio </b>
