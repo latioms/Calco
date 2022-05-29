@@ -1,0 +1,7 @@
+{
+  "name": "calco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
