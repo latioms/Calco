@@ -1,4 +1,4 @@
-</title><h2># CALCO-PROGRAMMATION-MOBILE</h2></title>
+<h2># CALCO-PROGRAMMATION-MOBILE</h2>
 <h5>Liste des membres du Groupe</h5>
 <ul>
     <h4>Noms et Matricules</h4>
