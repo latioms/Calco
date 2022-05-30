@@ -14,7 +14,7 @@
 
  S'y joint un fichier rapport Word comme demandé par l'enseignant qui expliques en detail les etapes de la publication d'une application Android
 
-<b>Implemente principalement a l'aide de la technologie ionic et Montée(Build) Grace a Capacitor et a Android Studio </b>
+<b>Implementée principalement a l'aide de la technologie ionic et Montée(Build) Grace a Capacitor et a Android Studio </b>
 <i> Le tout en respectant Le cycle de vie de L'application</i>
 
 <h4>Ci-dessous Quelques captures de L'application sous différents Environnements</h4>
@@ -35,7 +35,7 @@
 
 https://user-images.githubusercontent.com/73307766/170936629-7278afa1-6721-42d8-b996-0f704bd5a03c.mp4
 
- # Illustration fonction Dark Mode
+ # Illustration fonction "Dark Mode"
  
 
 https://user-images.githubusercontent.com/73307766/170941878-3d483134-75f7-4ec1-bc9f-ef5f700245d8.mp4
