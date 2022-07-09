@@ -1,14 +1,7 @@
 <h2># CALCO-PROGRAMMATION-MOBILE</h2>
 <h5>Liste des membres du Groupe</h5>
 
-<ul>
-    <h4>Noms et Matricules</h4>
-    <li>TIOMELA BELRICK STEPHANE CM-UDS-17SCI1666</li>
-    <li>ATIDANG TOFO Murielle CM-UDS-18SCI0872 </li>
-    <li>CHEGNO TEKAM Valencienne CM-UDS-19SCI0243</li>
-    <li>FOGOUO TOUSSE Amandine Rebecca CM-UDS-18SCI1037 </li>
-    <li>FOKAM NKAMDOUM Hermann CM-UDS-16SCI0214</li>
-</ul>
+
 
  <h3>Il s'agit de l'application android d'une calculatrice réalisé avec ionic, ainsi que ses fichiers sources, calquée sous un modèle donné par l'enseignant</h3>
 
